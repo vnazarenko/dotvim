@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/viktornazarenko'
+let g:netrw_dirhist_2='/Volumes/Storage/code/interstellar/interstellar'
+let g:netrw_dirhist_3='/Volumes/Storage/code/html_learn'
+let g:netrw_dirhist_4='/Volumes/Storage/code/yoga.info'
+let g:netrw_dirhist_5='/Volumes/Storage/code/playhem/poker'
+let g:netrw_dirhist_6='/Volumes/Storage/code/yoga.info'
+let g:netrw_dirhist_7='/Volumes/Storage/code/interstellar/interstellar'
+let g:netrw_dirhist_8='/Volumes/Storage/code/yoga.info'
+let g:netrw_dirhist_9='/Volumes/Storage/code/mailtrap'
