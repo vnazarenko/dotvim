@@ -14,3 +14,9 @@ map <right> :tabn<cr>
 map <left> :tabp<cr>
 map <up>  <c-w>W
 map <down> <c-w>w
+
+" Adding dash as part of the word
+set isk+=-
+
+" saving as root
+cmap w!! %!sudo tee > /dev/null %
