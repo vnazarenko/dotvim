@@ -1,4 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
-let g:netrw_dirhist_1='/Volumes/Storage/code/tennishub'
-let g:netrw_dirhist_2='/Volumes/Storage/code/customer_times/ISVCalendar'
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/usr/local/etc/nginx/sites'
+let g:netrw_dirhist_2='/Volumes/Storage/code/viasat'
+let g:netrw_dirhist_3='/Volumes/Storage/.rvm/gems/ruby-1.8.7-p371@viasat/gems/soap4r-1.5.8'
+let g:netrw_dirhist_4='/Volumes/Storage/code/drugstore'
+let g:netrw_dirhist_5='/Volumes/Storage/code/redmine'
+let g:netrw_dirhist_6='/Volumes/Storage/code/viasat'
+let g:netrw_dirhist_7='/Volumes/Storage/code/tennishub'

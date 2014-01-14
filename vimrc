@@ -6,6 +6,7 @@ set expandtab
 set tabstop=2
 set shiftwidth=2
 set hlsearch
+set smartcase
 highlight DiffAdd term=reverse cterm=bold ctermbg=green ctermfg=white 
 highlight DiffChange term=reverse cterm=bold ctermbg=cyan ctermfg=black 
 highlight DiffText term=reverse cterm=bold ctermbg=gray ctermfg=black 
