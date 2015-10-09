@@ -49,3 +49,15 @@
 [submodule "bundle/vim-monit"]
 	path = bundle/vim-monit
 	url = git://github.com/tmatilai/vim-monit.git
+[submodule "bundle/vim-misc"]
+	path = bundle/vim-misc
+	url = https://github.com/xolox/vim-misc
+[submodule "bundle/vim-session"]
+	path = bundle/vim-session
+	url = https://github.com/xolox/vim-session
+[submodule "plugins/vim-gradle"]
+	path = plugins/vim-gradle
+	url = git@github.com:tfnico/vim-gradle.git
+[submodule "bundle/handlebars"]
+	path = bundle/handlebars
+	url = git://github.com/nono/vim-handlebars.git
