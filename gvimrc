@@ -4,6 +4,7 @@ if has("gui_macvim")
   map <D-t> <Plug>(CommandT)
 end
 
-set background=dark 
+set background=dark
 colorscheme solarized
 set gfn=Monaco:h12
+"set g:CommandTWildIgnore=&wildignore . \",*/bower_components"
